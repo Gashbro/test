@@ -1,1 +1,2 @@
-# how to imoport pkgs
+import time
+import sleep
